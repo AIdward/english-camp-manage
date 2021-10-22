@@ -53,8 +53,8 @@
 
 ## 코드 실행 결과
 <p float="left">
-  <img src="src/10.png" height="300" />
-  <img src="src/11.png" height="300" />
+  <img src="src/10.png" height="250" />
+  <img src="src/11.png" height="250" />
 </p>
 
 8. code.ipynb 누른 후 shift + enter 계속 누르면서 코드 실행 (오류 발생 시 tomato247 카톡문의)
