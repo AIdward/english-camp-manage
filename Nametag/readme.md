@@ -6,9 +6,9 @@
 
 ## 코드 실행 결과
 <p float="left">
-  <img src="/src/1.png" width="100" />
-  <img src="/src/2.png" width="100" /> 
-  <img src="/src/3.png" width="100" />
+  <img src="src/1.png" width="100" />
+  <img src="src/2.png" width="100" /> 
+  <img src="src/3.png" width="100" />
 </p>
 ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/1.png){height="100"} ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/2.png){height="100"}
 
