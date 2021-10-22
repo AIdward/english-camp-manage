@@ -26,34 +26,33 @@
 
 1. 바탕화면에 폴더 생성 후 주소 복사
 
-<img src="src/4.png" height="500" />
+<img src="src/4.png" width="300" />
 
 1. window+R 누른 후 실행창에서 cmd 입력 후 엔터
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%204.png)
+<img src="src/5.png" width="300" />
 
 1. 그림과 같이 (cd 주소) 입력 후 엔터
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%205.png)
+<img src="src/6.png" width="300" />
 
 1. 아래와 같이 주소 복사
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%206.png)
+<img src="src/7.png" width="300" />
 
 1. 터미널에 (git clone 주소) 입력 후 엔터
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%207.png)
+<img src="src/8.png" width="300" />
 
 1. 생성한 폴더 → english-camp-manage → Nametag → name_list.csv 열고 명단 입력하기 (color는 Red, Green, Blue, Pink, Orange만 사용가능, 맞춤법 틀리면 오류)
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%208.png)
+<img src="src/9.png" width="300" />
 
 1. 생성한 폴더 → english-camp-manage → Nametag → template.pptx 열고 ctrl+D 눌러서 슬라이드 복사(57개를 만들고 싶다면 6의 배수+@, 10개가 되도록 복사 후 저장)
 2. window 누르고 jupyter notebook 실행, 폴더로 이동
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%209.png)
-
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%2010.png)
+<img src="src/10.png" width="300" />
+<img src="src/11.png" width="300" />
 
 1. code.ipynb 누른 후 shift + enter 계속 누르면서 코드 실행 (오류 발생 시 tomato247 카톡문의)
 2. 동일 폴더에 nametag.pptx 파일이 생성됨, 수고하셨습니다
