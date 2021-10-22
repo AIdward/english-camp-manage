@@ -6,10 +6,10 @@
 
 ## 코드 실행 결과
 <p float="left">
-  <img src="src/1.png" height="100" />
-  <img src="src/2.png" height="100" /> 
-  <➡️ height="50">
-  <img src="src/3.png" height="100" />
+  <img src="src/1.png" height="300" />
+  <img src="src/2.png" height="300" /> 
+  ➡️
+  <img src="src/3.png" height="300" />
 </p>
 
 
