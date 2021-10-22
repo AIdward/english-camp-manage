@@ -8,7 +8,7 @@
 <p float="left">
   <img src="src/1.png" height="100" />
   <img src="src/2.png" height="100" /> 
-  ➡️
+  <➡️ height="50">
   <img src="src/3.png" height="100" />
 </p>
 
