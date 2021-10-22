@@ -6,7 +6,7 @@
 
 ## 코드 실행 결과
 
-![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/1.png) ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/2.png)
+![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/1.png){: width="100%" height="100"} ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/2.png){: width="100%" height="100"}
 
 ➡️
 
