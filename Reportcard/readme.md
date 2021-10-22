@@ -8,10 +8,10 @@
 
 워드 템플릿 파일 하나와 엑셀 데이터로 원어민 보고서 템플릿 대량 생성 후 폴더별로 정리 가능
 
-<img src="src/1.png" width="500" />
-<img src="src/2.png" width="500" />
+<img src="src/1.png" width="600" />
+<img src="src/2.png" width="600" />
 ⏬
-<img src="src/3.png" width="500" />
+<img src="src/3.png" width="600" />
 
 ## 코드실행 전 설치 리스트
 
