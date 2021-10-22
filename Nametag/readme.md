@@ -33,7 +33,7 @@
 
 <img src="src/6.png" width="500" />
 
-4. 아래와 같이 주소 복사
+4. https://github.com/AIdward/english-camp-manage 페이지로 이동하여 아래와 같이 주소 복사
 
 <img src="src/7.png" width="500" />
 
