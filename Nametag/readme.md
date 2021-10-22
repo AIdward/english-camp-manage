@@ -26,7 +26,7 @@
 
 1. 바탕화면에 폴더 생성 후 주소 복사
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%203.png)
+<img src="src/4.png" height="500" />
 
 1. window+R 누른 후 실행창에서 cmd 입력 후 엔터
 
