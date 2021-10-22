@@ -51,8 +51,8 @@
 7. 생성한 폴더 → english-camp-manage → Nametag → template.pptx 열고 ctrl+D 눌러서 슬라이드 복사(57개를 만들고 싶다면 6의 배수+@, 10개가 되도록 복사 후 저장)
 8. window 누르고 jupyter notebook 실행, 폴더로 이동
 <p float="left">
-  <img src="src/10.png" height="300" />
-  <img src="src/11.png" height="300" />
+  <img src="src/10.png" height="200" />
+  <img src="src/11.png" height="200" />
 </p>  
 
 9. code.ipynb 누른 후 shift + enter 계속 누르면서 코드 실행 (오류 발생 시 tomato247 카톡문의)
