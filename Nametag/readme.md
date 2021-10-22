@@ -6,10 +6,10 @@
 
 ## 코드 실행 결과
 <p float="left">
-  <img src="src/1.png" height="500" />
-  <img src="src/2.png" height="500" /> 
+  <img src="src/1.png" height="400" />
+  <img src="src/2.png" height="400" /> 
   ➡️
-  <img src="src/3.png" height="500" />
+  <img src="src/3.png" height="400" />
 </p>
 
 ## 코드실행 전 설치 리스트
