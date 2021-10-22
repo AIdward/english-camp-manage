@@ -12,10 +12,6 @@
   <img src="src/3.png" height="500" />
 </p>
 
-
-
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%202.png)
-
 ## 코드실행 전 설치 리스트
 
 - Anaconda (파이썬 코드 실행 가상환경)
