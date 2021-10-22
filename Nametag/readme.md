@@ -8,10 +8,11 @@
 <p float="left">
   <img src="src/1.png" height="100" />
   <img src="src/2.png" height="100" /> 
+  ➡️
   <img src="src/3.png" height="100" />
 </p>
 
-➡️
+
 
 ![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%202.png)
 
