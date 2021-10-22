@@ -6,9 +6,9 @@
 
 ## 코드 실행 결과
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled.png)
+![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/1.png)
 
-![Untitled](NametagGenerator%20cc1d433af9134f91a0016678260c2e45/Untitled%201.png)
+![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/2.png)
 
 ➡️
 
