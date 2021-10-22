@@ -58,6 +58,8 @@
 9. code.ipynb 누른 후 shift + enter 계속 누르면서 코드 실행 (오류 발생 시 tomato247 카톡문의)
 10. 동일 폴더에 nametag.pptx 파일이 생성됨, 수고하셨습니다
 
+
+
 ## 오류 발생 리스트
 - Nametag.pptx를 만든 후 다시 만들고싶다면 Nametag.pptx파일을 지운 후 마지막 코드를 실행하여주세요
 - csv파일 color에 오타가 있거나 언급하지 않은 색상이 있다면 오류가 납니다
