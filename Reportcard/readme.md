@@ -51,7 +51,6 @@
 
 7. window 누르고 jupyter notebook 실행, 폴더로 이동
 
-## 코드 실행 결과
 <p float="left">
   <img src="src/10.png" height="250" />
   <img src="src/11.png" height="250" />
