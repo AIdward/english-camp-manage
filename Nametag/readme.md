@@ -5,6 +5,11 @@
 엑셀을 이용하여 자동으로 이름표 시트를 생성하는 방법을 공유합니다
 
 ## 코드 실행 결과
+<p float="left">
+  <img src="/src/1.png" width="100" />
+  <img src="/src/2.png" width="100" /> 
+  <img src="/src/3.png" width="100" />
+</p>
 ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/1.png){height="100"} ![Untitled](https://github.com/AIdward/english-camp-manage/blob/master/Nametag/src/2.png){height="100"}
 
 ➡️
