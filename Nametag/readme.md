@@ -1,7 +1,7 @@
 # NametagGenerator
 엑셀을 이용하여 자동으로 이름표 시트를 생성하는 방법을 공유합니다
 
-### 코드 실행 결과
+## 코드 실행 결과
 <p float="left">
   <img src="src/1.png" height="500" />
   <img src="src/2.png" height="500" /> 
@@ -9,7 +9,7 @@
   <img src="src/3.png" height="500" />
 </p>
 
-### 코드실행 전 설치 리스트
+## 코드실행 전 설치 리스트
 
 - Anaconda (파이썬 코드 실행 가상환경)
 
