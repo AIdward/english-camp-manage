@@ -1,16 +1,17 @@
 # ReportcardGenerator
 
-## 원어민 보고서 자동 생성 코드 공유
+## 원어민 보고서 자동 생성 코드 공유 (Share the Automatic Generation Code for Evaluation Reports)
 
 엑셀과 워드, 파이썬 코딩을 이용하여 자동으로 원어민 보고서를 생성하는 방법을 공유합니다
+How to automatically generate evaluation reports using Excel, Word, and Python coding.
 
-## 코드 실행 결과
+## 코드 실행 결과 (Result)
 
 워드 템플릿 파일 하나와 엑셀 데이터로 원어민 보고서 템플릿 대량 생성 후 폴더별로 정리 가능
 
 <img src="src/1.png" width="600" />
 <img src="src/2.png" width="600" />
-⏬
+## ⏬(Result)
 <img src="src/3.png" width="600" />
 
 ## 코드실행 전 설치 리스트
